@@ -21,7 +21,7 @@ export const Login = () => {
 
             <div className='field-login'>
                 <img src={gambar1} alt='' className='property-login' />
-                <h2 className='property-login Title'>Welcome, Admin BCR</h2>
+                <h2 className='property-login Title'>Challange-binar-staging</h2>
                 
 
                 <label className='property-login email-pass'>Email</label>

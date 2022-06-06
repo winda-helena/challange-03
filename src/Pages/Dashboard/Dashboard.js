@@ -56,7 +56,7 @@ export const Dashboard = () => {
     return (
         <div className='main-container'>
             <div className='container-dashboard'>
-                <img alt='' src={logoKotak} className='logo-kotak' />
+                <img alt='' src={logoKotak} className='logo-kotak'/>
 
                 <div>
                     <a href='dashboard' className='tag'> <i>
